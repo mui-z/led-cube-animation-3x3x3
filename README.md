@@ -11,5 +11,5 @@
 
 ## License
 
-This software is licensed under the Apache [License](./LICENSE)
+This software is licensed under the [Apache License 2.0](./LICENSE)
 
